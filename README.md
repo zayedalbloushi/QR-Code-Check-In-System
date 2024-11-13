@@ -67,7 +67,7 @@ To use this system, you will need:
 1. User submits a form with their name and email.
 2. They receive an email with a QR code.
 3. They scan the QR code at the event.
-4. The system checks if the user is authorized and logs their check-in.
+4. The system checks if the user checking-in is authorized and logs their check-in.
 
 ## Troubleshooting
 
